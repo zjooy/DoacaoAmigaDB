@@ -1,4 +1,4 @@
-# 🫶 Doação Amiga - Banco de Dados
+# Doação Amiga - Banco de Dados
 
 Este repositório contém o **modelo e o script SQL** do sistema **Doação Amiga**, desenvolvido como parte do **projeto final** da disciplina de **Projeto Integrador II**.
 
